@@ -1,9 +1,9 @@
-setwd("C:/Users/ksh/Desktop/data")
+setwd("C:/~/data")
 
 #=================================================#
 #=================================================#
 
-setwd("C:/Users/ksh/Desktop/data")
+setwd("C:/~/data")
 data<-read.csv("c_data.csv")
 data2<-read.csv("c2.csv")
 data2<-na.omit(data2)
