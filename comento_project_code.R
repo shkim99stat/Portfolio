@@ -1,5 +1,5 @@
-data<-read.csv("C:/Users/ksh/Desktop/Comento/week1/train_mdf.csv",header=T)
-raw<-read.csv("C:/Users/ksh/Desktop/Comento/week1/train_mdf.csv",header=T)
+data<-read.csv("C:/~/train_mdf.csv",header=T)
+raw<-read.csv("C:/~/train_mdf.csv",header=T)
 
 library(naniar)
 library(ggplot2)
